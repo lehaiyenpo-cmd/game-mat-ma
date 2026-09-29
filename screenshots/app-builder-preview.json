@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "MẬT MÃ LỊCH SỬ",
+      "hasCanvas": true,
+      "bodyTextLen": 382,
+      "bodyTextHash": "e7b119494d0f2c24bd7c0daa901d299d120cbace25fc51e2d8474606daa3795b",
+      "bodyTextPrefix": "CỤC BẢO TÀNG SỐ ARCHIVE · LỊCH SỬ 11 0/12 CỔ VẬT TECH-ARCHAEOLOG",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "MẬT MÃ LỊCH SỬ",
+      "hasCanvas": true,
+      "bodyTextLen": 361,
+      "bodyTextHash": "e74856c176a4c9e16a121e8027c22b9f68f51ef3d10186ee1e027d22d78e4f3c",
+      "bodyTextPrefix": "CỤC BẢO TÀNG SỐ 0/12 CỔ VẬT TECH-ARCHAEOLOGY · CYBER MUSEUM MẬT ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
